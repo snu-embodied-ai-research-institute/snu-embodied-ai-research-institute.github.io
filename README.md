@@ -5,6 +5,6 @@
 
   # snu-embodied-ai-research-institute's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[snu-embodied-ai-research-institute.github.io](https://snu-embodied-ai-research-institute.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
